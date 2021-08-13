@@ -6,5 +6,5 @@
   - [**풀어보기**](https://programmers.co.kr/learn/courses/30/lessons/42862)
 ## [카카오 거리두기 확인하기](https://github.com/myungsworld/algorithm-go/blob/main/kakao_keep_distance/solution.go)
   - [**풀어보기**](https://programmers.co.kr/learn/courses/30/lessons/81302)
-## [2개이하로 다른비트]()
+## [2개이하로 다른비트](https://github.com/myungsworld/algorithm-go/blob/main/month_code_challenge_season_2/solution.go)
   - [**풀어보기**](https://programmers.co.kr/learn/courses/30/lessons/77885)
