@@ -8,4 +8,5 @@
   - [**풀어보기**](https://programmers.co.kr/learn/courses/30/lessons/81302)
 ## [2개이하로 다른비트](https://github.com/myungsworld/algorithm-go/blob/main/month_code_challenge_season_2/solution.go)
   - [**풀어보기**](https://programmers.co.kr/learn/courses/30/lessons/77885)
-## [행렬곱]()
+## [행렬곱](https://github.com/myungsworld/algorithm-go/blob/main/matrix_times/solution.go)
+  - 이게 시간이 좀 걸리는 문제일줄은 생각도 못함
