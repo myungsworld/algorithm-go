@@ -10,5 +10,5 @@
   - [**풀어보기**](https://programmers.co.kr/learn/courses/30/lessons/77885)
 ## [행렬곱](https://github.com/myungsworld/algorithm-go/blob/main/matrix_times/solution.go)
   - 이게 시간이 좀 걸리는 문제일줄은 생각도 못함
-## [경우의수 (위장)]()
+## [경우의수 (위장)](https://github.com/myungsworld/algorithm-go/blob/main/camouflage/solution.go)
   - [**풀어보기**](https://programmers.co.kr/learn/courses/30/lessons/42578?language=go)
