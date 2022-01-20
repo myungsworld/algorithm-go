@@ -12,5 +12,5 @@
   - 이게 시간이 좀 걸리는 문제일줄은 생각도 못함
 ## [경우의수 (위장)](https://github.com/myungsworld/algorithm-go/blob/main/camouflage/solution.go)
   - [**풀어보기**](https://programmers.co.kr/learn/courses/30/lessons/42578?language=go)
-## [카카오 블라인드채용 신고결과받기]()
+## [카카오 블라인드채용 신고결과받기](https://github.com/myungsworld/algorithm-go/blob/main/2020_kakao_blind_recruitment/solution.go)
   - [**풀어보기**](https://programmers.co.kr/learn/courses/30/lessons/92334?language=go)
