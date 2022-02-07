@@ -14,3 +14,5 @@
   - [**풀어보기**](https://programmers.co.kr/learn/courses/30/lessons/42578?language=go)
 ## [카카오 블라인드채용 신고결과받기](https://github.com/myungsworld/algorithm-go/blob/main/2020_kakao_blind_recruitment/solution.go)
   - [**풀어보기**](https://programmers.co.kr/learn/courses/30/lessons/92334?language=go)
+## [기능개발](https://github.com/myungsworld/algorithm-go/blob/main/sol_dev/solution.go)
+  - [**풀어보기**](https://programmers.co.kr/learn/courses/30/lessons/42586)
